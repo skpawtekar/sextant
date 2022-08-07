@@ -17,6 +17,10 @@ function App() {
         >
           Learn React
         </a>
+		
+		<p>Here are the changes I did just to check whether I am on right path.</p><br></br>
+		<p>Yahoo! I made it.</p>
+		
       </header>
     </div>
   );
